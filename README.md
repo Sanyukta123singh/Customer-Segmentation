@@ -6,14 +6,14 @@ Segmentation offers a simple way of organizing and managing company’s relation
 Table Of Contents
 
 No	Contents	
-1	Importing Libraries
-2	About Dataset
-3	Basic Exploration
-4	Dataset Summary	
-5	Data Preprocessing	
-6	Custom Palette For Visualization
-7	Digging Deeper
-8	Correlation Map
-9	Dimensionality Reduction
-10	Customer Segmentation
-11	Customer's Cluster Profiling
+1. Importing Libraries
+2. About Dataset
+3. Basic Exploration
+4. Dataset Summary	
+5. Data Preprocessing	
+6. Custom Palette For Visualization
+7. Digging Deeper
+8. Correlation Map
+9. Dimensionality Reduction
+10. Customer Segmentation
+11. Customer's Cluster Profiling
