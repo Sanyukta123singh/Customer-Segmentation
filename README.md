@@ -5,7 +5,6 @@ Segmentation offers a simple way of organizing and managing company’s relation
 
 Table Of Contents
 
-No	Contents	
 1. Importing Libraries
 2. About Dataset
 3. Basic Exploration
